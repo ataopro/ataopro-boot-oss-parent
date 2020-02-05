@@ -23,6 +23,7 @@
             <email>admin@ataopro.com</email>
             <organization>github</organization>
             <organizationUrl>https://github.com/ataopro</organizationUrl>
+            <timezone>+8</timezone>
         </developer>
     </developers>
 
