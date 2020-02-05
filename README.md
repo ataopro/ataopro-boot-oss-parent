@@ -1,0 +1,1 @@
+用于发布com.ataopro.boot相关开源框架到maven center的parent配置
