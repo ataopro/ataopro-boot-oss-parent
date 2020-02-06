@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.ataopro</groupId>
     <artifactId>ataopro-boot-oss-parent</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>ataopro-boot-oss-parent</name>
     <description>用于发布com.ataopro.boot相关开源框架到maven center的parent配置</description>
     <url>http://www.ataopro.com</url>
